@@ -1,0 +1,39 @@
+
+
+@media screen and (max-width: 782px) {
+    .order-container .fusion-row  {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .order-mob-1 { order: 1; }
+    .order-mob-2 { order: 2; }
+    .order-mob-3 { order: 3; }
+    .order-mob-4 { order: 4; }
+    .order-mob-5 { order: 5; }
+    .order-mob-6 { order: 6; }
+    .order-mob-7 { order: 7; }
+    .order-mob-8 { order: 8; }
+    .order-mob-9 { order: 9; }
+    .order-mob-10 { order: 10; }
+    .order-mob-11 { order: 11; }
+    .order-mob-12 { order: 12; }
+    .order-mob-13 { order: 13; }
+    .order-mob-14 { order: 14; }
+    .order-mob-15 { order: 15; }
+    .order-mob-16 { order: 16; }
+    .order-mob-17 { order: 17; }
+    .order-mob-18 { order: 18; }
+    .order-mob-19 { order: 19; }
+    .order-mob-20 { order: 20; }
+    .order-mob-21 { order: 21; }
+    .order-mob-22 { order: 22; }
+    .order-mob-23 { order: 23; }
+    .order-mob-24 { order: 24; }
+    .order-mob-25 { order: 25; }
+    .order-mob-26 { order: 26; }
+    .order-mob-27 { order: 27; }
+    .order-mob-28 { order: 28; }
+    .order-mob-29 { order: 29; }
+    .order-mob-30 { order: 30; }
+}
