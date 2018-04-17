@@ -48,6 +48,8 @@
      						'4' => esc_attr__( '4', 'fusion-builder' ),
      						'5' => esc_attr__( '5', 'fusion-builder' ),
      						'6' => esc_attr__( '6', 'fusion-builder' ),
+     						'7' => esc_attr__( '7', 'fusion-builder' ),
+     						'8' => esc_attr__( '8', 'fusion-builder' ),
      					),
      					'group'       => esc_attr__( 'General', 'fusion-builder' ),
      				),
