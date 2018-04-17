@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Fusion Builder Order Mobile Columns
  * Plugin URI: https://www.watsoncreative.com/
- * Description: Allows you to change the order of your columns on mobile devices
+ * Description: Allows you to change the order of your columns on mobile devices - add the class "order-container" to the container.
  * Version: 1.0.0
  * Author: Watson Creative
  * Author URI: https://www.watsoncreative.com/
