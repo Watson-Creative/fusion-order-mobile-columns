@@ -38,7 +38,7 @@
      					'type'        => 'select',
               'default'     => '',
      					'heading'     => esc_attr__( 'Mobile Order', 'fusion-builder' ),
-     					'description' => esc_attr__( 'Set the order of this column for mobile.', 'fusion-builder' ),
+     					'description' => esc_attr__( 'Set the order of this column for mobile. Make sure to add the class order-container to the container of this column.', 'fusion-builder' ),
      					'param_name'  => 'custom_mobile_order',
               'value'       => array(
      						''  => esc_attr__( 'Default', 'fusion-builder' ),
