@@ -6,7 +6,7 @@
  * Version: 1.0.0
  * Author: Watson Creative
  * Author URI: https://www.watsoncreative.com/
- *
+ * GitHub Plugin URI: https://github.com/wc-barton/fusion-order-mobile-columns
  * @package Fusion Builder Order Mobile Columns
  */
 
